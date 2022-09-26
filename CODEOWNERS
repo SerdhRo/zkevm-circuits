@@ -1,7 +1,7 @@
-# For any file modification done to the repo, `zkevm-reviewers` team will be requested a review.
+
 * @appliedzkp/zkevm-reviewers
 
-# PRs done to `prover` workspace member will require an extra review from @pinkiebell.
+
 prover/* @pinkiebell
 
 # PRs done to `mock` workspace will require an extra review from @CPerezz
